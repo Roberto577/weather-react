@@ -9,7 +9,7 @@ export function WeatherForm({onChangeCity}) {
     function onChange(e){
         const value = e.target.value;
 
-        if(value != ""){
+        if(value !== ""){
             setCity(value);
         }
     }
