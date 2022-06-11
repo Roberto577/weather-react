@@ -1,0 +1,41 @@
+.mainInfo{
+    margin-top: 10px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+.city{
+    font-size: 32px;
+    text-align: center;
+    font-weight: 500;
+}
+.country{
+    font-size: 20px;
+    text-align: center;
+}
+.containerDetail{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.temp{
+    font-size: 80px;
+    font-weight: bold;
+    border-bottom: 6px dashed white;
+}
+.temp span{
+    font-size: 70px;
+    font-weight: 500;
+}
+.conditionContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.condition{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 500;
+}

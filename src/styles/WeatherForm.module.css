@@ -1,0 +1,16 @@
+.titleWeather{
+    font-size: 16px;
+    text-align: center;
+    margin-top: 20px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.input{
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
